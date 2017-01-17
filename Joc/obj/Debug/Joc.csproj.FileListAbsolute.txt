@@ -1,0 +1,10 @@
+D:\Workspace\C++\Joc\Joc\bin\Debug\Joc.exe.config
+D:\Workspace\C++\Joc\Joc\bin\Debug\Joc.exe
+D:\Workspace\C++\Joc\Joc\bin\Debug\Joc.pdb
+D:\Workspace\C++\Joc\Joc\obj\Debug\Joc.csprojResolveAssemblyReference.cache
+D:\Workspace\C++\Joc\Joc\obj\Debug\Joc.Form1.resources
+D:\Workspace\C++\Joc\Joc\obj\Debug\Joc.Properties.Resources.resources
+D:\Workspace\C++\Joc\Joc\obj\Debug\Joc.csproj.GenerateResource.Cache
+D:\Workspace\C++\Joc\Joc\obj\Debug\Joc.exe
+D:\Workspace\C++\Joc\Joc\obj\Debug\Joc.pdb
+D:\Workspace\C++\Joc\Joc\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
